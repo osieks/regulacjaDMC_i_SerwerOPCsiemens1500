@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2022-01-17 12:56:45 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="symulacja_obiekt_cieplny_Z_OPC_UA.PC station[SIMATIC PC station - WinCC RT Advanced]"
+    RtProjectFolderName="symulacja_obiekt_cieplny_Z_OPC_UA.PC station[SIMATIC PC station - WinCC RT Advanced]"
+    DeviceType="PC-OP"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.tfz</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <License
+    type="WCRT011600">WinCC RT Advanced (128)</License>
+  <License
+    type="WCLORT9999">WinCC Logging for RT Advanced</License>
+</DownloadTask>
